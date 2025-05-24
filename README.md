@@ -14,6 +14,19 @@ I’m a **Flutter Developer** passionate about clean UI & smooth UX — now divi
 
 ---
 
+## 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-5A5A5A?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+
 ## 🧪 Currently Exploring
 
 - 🔹 Clean Architecture in Flutter & Go
@@ -48,8 +61,26 @@ I was responsible for the **Flutter frontend implementation**.
   <img src="https://raw.githubusercontent.com/geraldiaditya/geraldiaditya/main/assets/HRIS_2.jpg" width="300" alt="HRIS - Attendance"/>
 </p>
 
+#### 📦 Tech & Architecture Highlights
+
+- Developed with **Flutter 3.19**
+- State management using **Flutter BLoC**
+- Integrated with backend via **REST API** (JSON-based)
+- Local storage using **SQLite** with **Floor ORM**
+- **Responsive layout** for phones and tablets
+- Implemented **ML Kit Face Detection** for camera-based attendance
+- Integrated with **Firebase Cloud Messaging** for real-time notifications
 
 ---
+
+## 🎯 Learning Goals (2025)
+
+- [ ] Explore DevOps basics (Docker, CI/CD, Monitoring)
+- [ ] Master gRPC-based microservices with Go
+- [ ] Contribute to an open-source Flutter package
+
+---
+
 
 ## 📊 GitHub Stats
 
