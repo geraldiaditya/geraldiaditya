@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Geraldi Aditya
 
-I'm a **Flutter Developer** with a strong focus on clean UI and smooth UX — now expanding into **Backend Engineering** using **Go (Golang)**. I love crafting sleek mobile apps and building scalable backend systems.
+I’m a **Flutter Developer** passionate about clean UI & smooth UX — now diving into **Backend Engineering with Go (Golang)**. I enjoy crafting beautiful mobile experiences and building scalable backend systems with a focus on performance and maintainability.
 
 ---
 
@@ -8,8 +8,8 @@ I'm a **Flutter Developer** with a strong focus on clean UI and smooth UX — no
 
 - 📱 **Flutter Developer** since 2023 — building efficient, maintainable, and delightful apps.
 - ⚙️ Learning and building backend systems with **Golang** (REST APIs, gRPC, microservices).
-- 🧩 Experienced in developing **custom Odoo ERP modules** to automate business processes.
-- 🛠️ Brief exposure to **Laravel** during university — built an academic project for my thesis.
+- 📦 Experienced in developing **custom Odoo ERP modules** to automate business processes.
+- 💻 Brief exposure to **Laravel** during university — built an academic project for my thesis.
 - 🧠 Curious about software architecture, performance optimization, and developer workflows.
 
 ---
@@ -34,10 +34,27 @@ I'm a **Flutter Developer** with a strong focus on clean UI and smooth UX — no
 
 ---
 
+## 🔍 Real-World App Showcase
+
+This is a **private mobile HRIS (Human Resource Information System) application** I developed for internal company use, focused on **attendance tracking and employee self-service features**.  
+I was responsible for the **Flutter frontend implementation**.
+
+> ⚠️ *Code repository is private due to company policy.*
+
+#### 📱 Screenshots
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/geraldiaditya/your-repo-name/main/screenshots/attendance-summary.jpg" width="300" alt="Attendance Summary"/>
+  <img src="https://raw.githubusercontent.com/geraldiaditya/your-repo-name/main/screenshots/home-dashboard.jpg" width="300" alt="Dashboard"/>
+</p>
+
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- 
-![Geraldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldiaditya&show_icons=true&theme=tokyonight) 
+<!--
+![Geraldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldiaditya&show_icons=true&theme=tokyonight)
 -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldiaditya&layout=compact&theme=tokyonight)
