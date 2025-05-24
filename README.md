@@ -44,8 +44,8 @@ I was responsible for the **Flutter frontend implementation**.
 #### 📱 Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/geraldiaditya/your-repo-name/main/screenshots/attendance-summary.jpg" width="300" alt="Attendance Summary"/>
-  <img src="https://raw.githubusercontent.com/geraldiaditya/your-repo-name/main/screenshots/home-dashboard.jpg" width="300" alt="Dashboard"/>
+  <img src="https://raw.githubusercontent.com/geraldiaditya/geraldiaditya/main/assets/HRIS_1.jpg" width="300" alt="HRIS - Dashboard"/>
+  <img src="https://raw.githubusercontent.com/geraldiaditya/geraldiaditya/main/assets/HRIS_2.jpg" width="300" alt="HRIS - Attendance"/>
 </p>
 
 
