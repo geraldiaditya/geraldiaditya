@@ -38,10 +38,12 @@ I’m a **Flutter Developer** passionate about clean UI & smooth UX — now divi
 
 ## 🚀 Featured Projects
 
-- **📱 Flutter Apps**
-  - `fl-app-*` — UI/UX-focused apps for real-world use cases.
 - **⚙️ Go Backends**
-  - `go-service-*` — REST/gRPC backend projects using clean architecture.
+  - [soccer-booking-backend](https://github.com/geraldiaditya/soccer-booking-backend) — REST API backend for soccer field booking platform.
+  - [bwa-soccer-booking](https://github.com/geraldiaditya/bwa-soccer-booking) — Microservices-based soccer field booking platform built with Go, Gin, GORM, PostgreSQL, Kafka, JWT, and Midtrans.
+  - [go-service-mj-pos](https://github.com/geraldiaditya/go-service-mj-pos) — Backend service for Muara Jaya Point of Sale (POS) system.
+- **📱 Flutter Apps**
+  - [fl_ramovie](https://github.com/geraldiaditya/fl_ramovie) — Movie catalog application built with Flutter.
 - **📦 Odoo ERP**
   - Custom modules for reporting, business logic, and Point of Sale systems.
 
