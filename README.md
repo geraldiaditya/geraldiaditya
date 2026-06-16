@@ -16,13 +16,16 @@ I’m a **Flutter Developer** passionate about clean UI & smooth UX — now divi
 
 ## 🛠 Tech Stack
 
+### 📱 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-5A5A5A?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
 ---
 
@@ -86,17 +89,17 @@ I was responsible for the **Flutter frontend implementation**.
 
 ## 📊 GitHub Stats
 
-<!--
-![Geraldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldiaditya&show_icons=true&theme=tokyonight)
--->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldiaditya&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldiaditya&show_icons=true&theme=tokyonight" alt="Geraldi's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldiaditya&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/geraldiaditya)
+- 📧 [Email](mailto:dev.geraldi@gmail.com) (dev.geraldi@gmail.com)
 - ✍️ [Medium](https://medium.com/@geraldiaditya)
 
 ---
